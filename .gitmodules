@@ -1,0 +1,3 @@
+[submodule "wetothemoon"]
+	path = wetothemoon
+	url = https://github.com/CasebookKiller/wetothemoon.git
