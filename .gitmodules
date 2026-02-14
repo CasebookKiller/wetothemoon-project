@@ -7,3 +7,6 @@
 [submodule "wetothemoon-web"]
 	path = wetothemoon-web
 	url = https://github.com/CasebookKiller/wetothemoon-web.git
+[submodule "wetothemoon-vk"]
+	path = wetothemoon-vk
+	url = https://github.com/CasebookKiller/wetothemoon-vk.git
