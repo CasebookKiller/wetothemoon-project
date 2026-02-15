@@ -10,3 +10,6 @@
 [submodule "wetothemoon-vk"]
 	path = wetothemoon-vk
 	url = https://github.com/CasebookKiller/wetothemoon-vk.git
+[submodule "profile"]
+	path = profile
+	url = https://github.com/CasebookKiller/profile.git
