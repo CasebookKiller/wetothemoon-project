@@ -1,0 +1,18 @@
+[submodule "wetothemoon"]
+	path = wetothemoon
+	url = https://github.com/CasebookKiller/wetothemoon.git
+[submodule "server"]
+	path = server
+	url = https://github.com/CasebookKiller/cbk-server.git
+[submodule "wetothemoon-web"]
+	path = wetothemoon-web
+	url = https://github.com/CasebookKiller/wetothemoon-web.git
+[submodule "wetothemoon-vk"]
+	path = wetothemoon-vk
+	url = https://github.com/CasebookKiller/wetothemoon-vk.git
+[submodule "profile"]
+	path = profile
+	url = https://github.com/CasebookKiller/profile.git
+[submodule "wetothemoon-electron"]
+	path = wetothemoon-electron
+	url = https://github.com/CasebookKiller/wetothemoon-electron.git

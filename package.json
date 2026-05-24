@@ -1,0 +1,28 @@
+{
+  "name": "wetothemoon-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CasebookKiller/wetothemoon-project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/CasebookKiller/wetothemoon-project/issues"
+  },
+  "homepage": "https://github.com/CasebookKiller/wetothemoon-project#readme",
+  "devDependencies": {
+    "axios": "^1.13.6",
+    "supabase": "^2.89.1"
+  },
+  "dependencies": {
+    "typescript": "^6.0.3"
+  }
+}
